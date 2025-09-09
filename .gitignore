@@ -2,10 +2,23 @@
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.pyo
+*.pyd
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.dist-info/
 
 # Ignore Node
 node_modules/
 *.log
+package-lock.json
+
+# Ignore virtual envs
+venv/
+env/
 
 # Ignore system files
 .DS_Store
