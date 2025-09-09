@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Node
+node_modules/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
